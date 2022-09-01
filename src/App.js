@@ -6,7 +6,6 @@ import TampApp from './Component/TampApp';
 function App() {
   return (
     <div className="App">
-        
          <TampApp/>
     </div>
   );
